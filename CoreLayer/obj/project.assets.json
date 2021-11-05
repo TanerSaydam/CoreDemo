@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreLayer\\CoreLayer.csproj",
+      "projectUniqueName": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
       "projectName": "CoreLayer",
-      "projectPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreLayer\\CoreLayer.csproj",
+      "projectPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
       "packagesPath": "C:\\Users\\taner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreLayer\\obj\\",
+      "outputPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\CoreLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\taner\\AppData\\Roaming\\NuGet\\NuGet.Config",

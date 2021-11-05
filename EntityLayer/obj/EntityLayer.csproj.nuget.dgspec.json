@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\EntityLayer\\EntityLayer.csproj": {}
+    "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\EntityLayer\\EntityLayer.csproj",
+        "projectPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
         "packagesPath": "C:\\Users\\taner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\taner\\AppData\\Roaming\\NuGet\\NuGet.Config",

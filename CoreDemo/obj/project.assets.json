@@ -7212,11 +7212,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\CoreDemo.csproj",
+      "projectUniqueName": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
       "projectName": "CoreDemo",
-      "projectPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\CoreDemo.csproj",
+      "projectPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
       "packagesPath": "C:\\Users\\taner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\obj\\",
+      "outputPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\CoreDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\taner\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7233,14 +7233,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }

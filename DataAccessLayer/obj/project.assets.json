@@ -5819,11 +5819,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\taner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\DataAccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\taner\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5840,8 +5840,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }

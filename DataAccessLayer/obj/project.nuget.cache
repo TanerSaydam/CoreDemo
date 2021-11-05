@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zQjl/OAInIDNWhEggTOqvczg9QjZrA3oZcCORUB3nMW9uzoGVFj96IQLpkMtqKCWys67tUqRiQXR8yKX8R9BCw==",
+  "dgSpecHash": "/80T2QaFB+pVrqwY8dPAvleb/y5uaYppGlLItLxrGRzOlYcL5hMUICD/NrueX2i/BQ8XRlK7l2wdsqvtK1lHHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\taner\\OneDrive\\Masaüstü\\GitHub\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\taner\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\taner\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
